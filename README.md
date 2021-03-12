@@ -2,6 +2,8 @@
 
 ## Outline
 
+![alt text](https://github.com/alwaysongoogle247/movie_recommendations/blob/main/Images/3e45a34c4808c6122a817a7e6fc431a7.jpg)
+
 
 ## Business Problem 
 
