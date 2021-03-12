@@ -13,18 +13,17 @@ We were contracted by a small video streaming startup called “Lackluster Video
 
 For this project, we will be using the small MovieLens dataset from the GroupLens research lab at the University of Minnesota. The small dataset contains 100,836 ratings of 9742 movies varying in genre. Below you can see the counts by ratings. 
 
-![alt text] (https://github.com/alwaysongoogle247/movie_recommendations/blob/main/Images/Average%20Ratings%20Distribution.png)
-
-
-The following graph shows that the more popular a movie is the higher the rating it receives 
-![alt text]
 
 ## Technologies and Packages Used
 
-Pandas/n
+Pandas
+
 Numpy
+
 Seaborn
+
 Surprise 
+
 Scipy
 
 ## Conclusions
